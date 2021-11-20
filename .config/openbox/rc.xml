@@ -270,6 +270,11 @@
         <command>st</command>
       </action>
     </keybind>
+    <keybind key="A-l">
+      <action name="Execute">
+        <command>betterlockscreen -l</command>
+      </action>
+    </keybind>
     <!-- Take a screenshot of the current window with scrot when Alt+Print are pressed -->
     <keybind key="A-p">
       <action name="Execute">
