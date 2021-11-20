@@ -271,9 +271,9 @@
       </action>
     </keybind>
     <!-- Take a screenshot of the current window with scrot when Alt+Print are pressed -->
-    <keybind key="A-Print">
+    <keybind key="A-p">
       <action name="Execute">
-        <command>scrot -s</command>
+      <command>~/.scripts/other/scrot.sh</command>
       </action>
     </keybind>
     <keybind key="A-d">
