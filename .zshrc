@@ -23,4 +23,3 @@ alias rm="rm -i"
 # Use modern completion system
 autoload -Uz compinit
 compinit
-GITHUB_ACCESS_TOKEN="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"
