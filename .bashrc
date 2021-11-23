@@ -65,7 +65,7 @@ fi
 unset color_prompt force_color_prompt
 
 export EDITOR='vim'
-export PATH=#PATH:/usr/local/go/bin
+export PATH=$PATH:/usr/local/go/bin
 # If this is an xterm set the title to user@host:dir
 case "$TERM" in
 xterm*|rxvt*)
