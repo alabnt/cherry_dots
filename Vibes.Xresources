@@ -1,0 +1,55 @@
+Xft.antialias:	1
+Xft.hinting:	1
+Xft.autohint:	0
+Xft.hintstyle:	hintslight
+Xft.rgba:	rgb
+Xft.lcdfilter:	lcddefault
+
+st.borderpx: 	20
+st.alpha:	1.0
+st.font:           JetBrainsMono Nerd Font:style:medium:pixelsize=15
+#define BG #0B141D
+#define FG #d0b8cf
+#define BL #0A171A
+#define WH #DDCDDD
+#define R #70394B 
+#define G #2D5426 
+#define Y #706239
+#define B #394E70
+#define M #5A3970
+#define C #2F5E68
+
+*.foreground:       FG
+*.background:       BG 
+
+! black
+*.color0:			BL
+*.color8:			BL
+
+! red
+*.color1:			R
+*.color9:			R
+
+! green
+*.color2:			G
+*.color10:			G
+
+! yellow
+*.color3:       	Y
+*.color11:      	Y
+
+! blue
+*.color4:       	B
+*.color12:      	B
+
+! magenta
+*.color5:       	M
+*.color13:      	M
+
+! cyan
+*.color6:       	C
+*.color14:      	C
+
+! white
+*.color7:       	WH
+*.color15:      	WH	
